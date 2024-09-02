@@ -12,7 +12,7 @@ Skills: Python, R, Data Engineering, Power BI, Linear and Logistic Regression, N
 - 🌱 I’m currently learning Generative AI and the core models fueling its propulsion 
 - 👯 I’m looking to collaborate on Advanced Machine Learning and Data Engineering ventures in Enterprise Service Management, Financial Services and Data Storage domains 
 - 🤔 I’m looking for help with Exploring Full-Time Career Opportunities in Business Intelligence and Analytics 
-- 📫 How to reach me: arnab.datawise@hotmail.com 
+- 📫 How to reach me: arnab_datawise@hotmail.com 
 - 😄 Pronouns: He/Him 
 
 
